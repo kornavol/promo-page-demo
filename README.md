@@ -1,5 +1,5 @@
-# promo-page demo
+# promo-page на toysawaydammit.com
 
-Сборка первого экрана страницы раннего доступа «Тихий сад» для показа: https://kornavol.github.io/promo-page-demo/
+Сборка страницы раннего доступа «Тихий сад»: https://toysawaydammit.com/
 
 Только готовые файлы; исходники — в приватном репозитории promo-page. Обновляется скриптом `scripts/publish-demo.sh`.
